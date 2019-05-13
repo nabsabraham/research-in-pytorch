@@ -5,5 +5,8 @@ These functionalities may be geared towards my research or just my understanding
 
 Good resources: 
 
-PyTorch Github - https://github.com/pytorch/tutorials/tree/master/beginner_source <br/> 
-Udacity - https://www.udacity.com/facebook-pytorch-scholarship <br/> 
+[PyTorch Github](https://github.com/pytorch/tutorials/tree/master/beginner_source) - Official repo with great introductory code <br/> 
+[Udacity Github](https://github.com/udacity/deep-learning-v2-pytorch) - PyTorch course with projects and examples <br/> 
+
+Excellent explanations: 
+[Batch Norm](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) by Frederik Kratzert <br/>
