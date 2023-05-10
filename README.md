@@ -10,3 +10,7 @@ Good resources:
 
 Excellent explanations: 
 [Batch Norm](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) by Frederik Kratzert <br/>
+
+Gradient accumulation: 
+super simple in [torch](https://kozodoi.me/blog/20210219/gradient-accumulation): 
+
